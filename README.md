@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=220&section=header&text=Mago-Wang&fontSize=80&fontColor=ffffff" width="100%" />
 
   <h3>👋 大家好，我是王麻果 (Mago-Wang)</h3>
-  <p>一名正在探索 Golang 与 Vue 世界的开发者 | 重庆涪陵</p>
+  <p>一名正在探索 Golang 与 Vue 世界的开发者</p>
 
   <p>
     <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
